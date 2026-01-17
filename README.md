@@ -108,6 +108,13 @@ Suggested mitigation strategies: - Regular bias audits -
 Human-in-the-loop decision review - Threshold adjustments if needed
 
 ------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+## 🛠️ Detailed Report
+
+- The detailed report is present in the file ml_attrition.pdf.
+
+------------------------------------------------------------------------
 
 ## 📌 Key Takeaways
 
